@@ -30,16 +30,18 @@ Bu yapı sayesinde, her bir donanım kartı için sırayla ilerleyebilir, teorik
 1.  İlgilendiğiniz donanım kartının klasörünü (`STM`, `PIC`, vb.) seçin.
 2.  Klasörün içindeki `README.md` dosyasını okuyarak o bölümün detayları hakkında bilgi edinin.
 3.  Öğrenmek istediğiniz konunun klasörünü (`GPIO`,`Kesme`, vb.) seçin.
-4.  Önce **`KonuAnlatımı.md`** dosyasına göz atarak temel bilgileri edinin.
+4.  Oradan **`KonuAnlatımı.md`** dosyasına göz atarak temel bilgileri edinin.
 5.  Sonrasında kendinizi test etmek için **Sorular** klasöründeki görevleri tamamlamaya çalışın. Takılırsanız, **Soru Cevapları**'ndan yardım alabilirsiniz.
 
 ---
 
 ## Katkıda Bulunma
 
-Bu projenin zenginleşmesi sizin katkılarınızla mümkün olacaktır. Yeni donanım projeleri, daha iyi açıklamalar veya ek sorular ile katkıda bulunmak isterseniz:
+Bu projeye katkıda bulunmak istiyorsanız:  
 
--   Lütfen bir **"Issue"** oluşturarak önerilerinizi iletin.
--   Kendi çalışmalarınızı eklemek için bir **"Pull Request"** gönderin.
+1. Bu repoyu **fork** edin.  
+2. Kendi fork'unuzda değişikliklerinizi yapın.  
+3. Bir **Pull Request** gönderin.  
+4. Yaptığınız katkı, inceleme ve onay sonrasında ana projeye dahil edilecektir.  
 
-Birlikte, bu depoyu daha da faydalı bir kaynak haline getirebiliriz!
+Ayrıca öneri, geliştirme fikri veya hata bildirimi için bir **Issue** açabilirsiniz.
