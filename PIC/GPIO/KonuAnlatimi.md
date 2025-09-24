@@ -1,12 +1,12 @@
-# PIC16F877 Mikrodenetleyici ile GPIO 
+# PIC16F887 Mikrodenetleyici ile GPIO 
 
-## 🚀 Sunum İçeriği
+
+## Sunum İçeriği
 
 - [GPIO Nedir?](#gpio-nedir)
-- [PIC16F877'da GPIO'nun Çalışma Prensibi](#pic16f877de-gpionun-calisma-prensibi)
-- [MicroC Pro for PIC ile Temel Komutlar](#microc-pro-for-pic-ile-temel-komutlar)
-- [Örnek 1: LED Yakma](#ornek-1-led-yakma)
-- [Örnek 2: Buton Okuma](#ornek-2-buton-okuma)
+- [PIC16F887'de GPIO'nun Çalışma Prensibi](#pic16f887de-gpionun-calisma-prensibi)
+- [Örnek 1: LED Yakma](#örnek-1-led-yakma)
+- [Örnek 2: Buton Okuma](#örnek-2-buton-okuma)
 
 ---
 
@@ -19,9 +19,9 @@
 
 ---
 
-## PIC16F877'de GPIO'nun Çalışma Prensibi
+## PIC16F887'de GPIO'nun Çalışma Prensibi
 
-PIC16F877'daki GPIO pinleri, **TRIS** ve **PORT** olmak üzere iki ana yazmaç (register) ile kontrol edilir. Programlamaya başlamadan önce bu iki yazmacın amacını ve nasıl kullanıldığını anlamak çok önemlidir.
+PIC16F887'daki GPIO pinleri, **TRIS** ve **PORT** olmak üzere iki ana yazmaç (register) ile kontrol edilir. Programlamaya başlamadan önce bu iki yazmacın amacını ve nasıl kullanıldığını anlamak çok önemlidir.
 
 ---
 
@@ -115,7 +115,7 @@ Bu örnekte, **PORTB'nin 0. pinine (`RB0`) bağlı bir LED'i yakıp söndürece�
 
 ### Devre Şeması
 
-- PIC16F877
+- PIC16F887
 - `RB0` pinine bağlı 330 ohm'luk direnç ve LED
 - PIC'in MCLR pini 5V'a pull-up dirençle bağlı, VDD-VSS bağlantıları yapılmış.
 
@@ -142,7 +142,7 @@ Bu örnekte, **PORTA'nın 0. pinine (`RA0`) bağlı bir butona basıldığında,
 
 ### Devre Şeması
 
-- PIC16F877
+- PIC16F887
 - `RA0` pinine bağlı pull-down direnci ve buton
 - `RB0` pinine bağlı 330 ohm'luk direnç ve LED
 

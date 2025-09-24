@@ -1,14 +1,14 @@
-# PIC16F877 Mikrodenetleyici Başlangıç Rehberi
+# PIC16F887 Mikrodenetleyici Başlangıç Rehberi
 
-## 📋 İçindekiler
+## İçindekiler
 
-- [PIC16F877 Hakkında](#pic16f877-hakkında)
+- [PIC16F887 Hakkında](#pic16f887-hakkında)
 - [Teknik Özellikler](#teknik-özellikler)
 - [Pin Diyagramı ve Açıklamaları](#pin-diyagramı-ve-açıklamaları)
 
-## PIC16F877 Hakkında
+## PIC16F887 Hakkında
 
-PIC16F877, Microchip Technology tarafından üretilen, yüksek performanslı ve tamamen statik çalışan 8-bit CMOS bir mikrodenetleyicidir. Özellikle eğitim amaçlı projeler ve orta seviye uygulamalar için ideal olan bu mikrodenetleyici, geniş çevre birimi desteği ve kolay programlanabilirlik özellikleriyle öne çıkar.
+PIC16F887, Microchip Technology tarafından üretilen, yüksek performanslı ve tamamen statik çalışan 8-bit CMOS bir mikrodenetleyicidir. Özellikle eğitim amaçlı projeler ve orta seviye uygulamalar için ideal olan bu mikrodenetleyici, geniş çevre birimi desteği ve kolay programlanabilirlik özellikleriyle öne çıkar.
 
 
 ## Teknik Özellikler
