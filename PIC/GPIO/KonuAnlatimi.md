@@ -4,7 +4,7 @@
 ## Sunum İçeriği
 
 - [GPIO Nedir?](#gpio-nedir)
-- [PIC16F887'de GPIO'nun Çalışma Prensibi](#pic16f887de-gpionun-calisma-prensibi)
+- [PIC16F887'de GPIO'nun Çalışma Prensibi](#pic16f887de-gpionun-çalışma-prensibi)
 - [Örnek 1: LED Yakma](#örnek-1-led-yakma)
 - [Örnek 2: Buton Okuma](#örnek-2-buton-okuma)
 

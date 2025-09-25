@@ -1,10 +1,10 @@
 # PIC16F887'da Kesme (Interrupt) Kullanımı
 ## Sunum İçeriği
 
-- [Kesme Nedir ve Neden Kullanılır?](#kesme-nedir-ve-neden-kullanilir)
-- [PIC16F887'de Kesme Kaynakları](#pic16f887de-kesme-kaynaklari)
-- [Kesme Yazmaçları ve Ayarları](#kesme-yazmaclari-ve-ayarlari)
-- [MicroC Pro for PIC ile Kesme Kullanımı](#microc-pro-for-pic-ile-kesme-kullanimi)
+- [Kesme Nedir ve Neden Kullanılır?](#kesme-nedir-ve-neden-kullanılır)
+- [PIC16F887'de Kesme Kaynakları](#pic16f887de-kesme-kaynakları)
+- [Kesme Yazmaçları ve Ayarları](#kesme-yazmaçları-ve-ayarları)
+- [MicroC Pro for PIC ile Kesme Kullanımı](#microc-pro-for-pic-ile-kesme-kullanımı)
 
 ---
 

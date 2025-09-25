@@ -2,12 +2,12 @@
 
 ## Sunum İçeriği
 
-- [Timer Nedir ve Neden Kullanılır?](#timer-nedir-ve-neden-kullanilir)
-- [PIC16F887'de Timer Türleri](#pic16f887ade-timer-turleri)
-- [Timer0 Kullanımı](#timer0-kullanimi)
-- [Timer1 Kullanımı](#timer1-kullanimi)
-- [Timer2 Kullanımı](#timer2-kullanimi)
-- [MicroC Pro for PIC ile Timer Kullanımı](#microc-pro-for-pic-ile-timer-kullanimi)
+- [Timer Nedir ve Neden Kullanılır?](#timer-nedir-ve-neden-kullanılır)
+- [PIC16F887'de Timer Türleri](#pic16f887de-timer-türleri)
+- [Timer0 Kullanımı](#timer0-kullanımı)
+- [Timer1 Kullanımı](#timer1-kullanımı)
+- [Timer2 Kullanımı](#timer2-kullanımı)
+- [MicroC Pro for PIC ile Timer Kullanımı](#microc-pro-for-pic-ile-timer-kullanımı)
 
 ---
 
